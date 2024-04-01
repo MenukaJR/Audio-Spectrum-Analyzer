@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>V10__major_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BlackFuse_RetroLineProgBar">
+      <HintPath>..\..\Progressbars\BlackFuse_RetroLineProgBar\BlackFuse_RetroLineProgBar\obj\Debug\net6.0\BlackFuse_RetroLineProgBar.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

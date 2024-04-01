@@ -1,0 +1,60 @@
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).exe
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).deps.json
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).runtimeconfig.json
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).pdb
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.Form1.resources
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.GenerateResource.cache
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).GeneratedMSBuildEditorConfig.editorconfig
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).AssemblyInfoInputs.cache
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).AssemblyInfo.cs
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.CoreCompileInputs.cache
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\refint\V10 (major).dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).pdb
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).genruntimeconfig.cache
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\ref\V10 (major).dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\BlackFuse_RetroLineProgBar.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\BlackFuse_RetroLineProgBar.pdb
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.AssemblyReference.cache
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.CopyComplete
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.BlackFuse_RetroLineProgbar.resources
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.BlackFuse_RetroLineProgbarV3.resources
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\personal projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).exe
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).deps.json
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).runtimeconfig.json
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\V10 (major).pdb
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Asio.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Core.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Midi.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\BlackFuse_RetroLineProgBar.dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\bin\Debug\net6.0-windows\BlackFuse_RetroLineProgBar.pdb
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.AssemblyReference.cache
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.BlackFuse_RetroLineProgbar.resources
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.BlackFuse_RetroLineProgbarV3.resources
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10__major_.Form1.resources
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.GenerateResource.cache
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).AssemblyInfoInputs.cache
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).AssemblyInfo.cs
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).csproj.CoreCompileInputs.cache
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (maj.8DB6771B.Up2Date
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\refint\V10 (major).dll
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).pdb
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\V10 (major).genruntimeconfig.cache
+H:\Personal Projects\Audio spectrum analyzer\V10 (major)\V10 (major)\obj\Debug\net6.0-windows\ref\V10 (major).dll
